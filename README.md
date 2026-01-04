@@ -1,6 +1,7 @@
 SocialNU API - Assignment 5
 
 Approach
+
 I developed a RESTful API using Node.js and Express to connect the SocialNU frontend with a PostgreSQL database. The backend handles data retrieval using the pg library, and sensitive credentials are managed securely through a .env file.
 
 Key Takeaways
