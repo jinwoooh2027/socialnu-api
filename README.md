@@ -13,7 +13,6 @@ Key Takeaways
 - Understood the process of fetching and rendering dynamic data in a grid layout.
 
 Challenges
- 
-- Synchronized the database schema with the existing UI components to ensure the 6-student grid displays correctly.
+Synchronized the database schema with the existing UI components to ensure the 6-student grid displays correctly.
 
-- Mapped database query results to React state to maintain design consistency.
+Mapped database query results to React state to maintain design consistency.
