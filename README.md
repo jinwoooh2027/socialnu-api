@@ -16,3 +16,5 @@ Challenges
 Synchronized the database schema with the existing UI components to ensure the 6-student grid displays correctly.
 
 Mapped database query results to React state to maintain design consistency.
+
+assignment 6 completed as well. 
